@@ -1,6 +1,6 @@
 # Dockerfile for BIND DNS on CentOS
 
-FROM centos
+FROM centos:7
 
 MAINTAINER anton.belodedenko@gmail.com
 
