@@ -1,5 +1,5 @@
 # Dockerfile for sniproxy on Fedora
-FROM fedora:22
+FROM fedora:21
 
 MAINTAINER anton.belodedenko@gmail.com
 
